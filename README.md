@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @efe-kaan
 - 👀 I’m interested in Kick Box and Fitness recently.
-- 🌱 I’m currently learning Unity and Blender
+- 🌱 I’m currently learning Unreal Engine and c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me efe.ayanoglu@bahcesehir.edu.tr
 - 😄 Pronouns: ...
